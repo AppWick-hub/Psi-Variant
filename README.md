@@ -19,18 +19,6 @@ A brief tutorial (to implement Psi-Variant on a dummy WES dataset) will be descr
 
 A manuscript has been submitted already to a journal and the preprint will be available soon (the preprint link will be added here). 
 
-For any query, please contact: 
-
-Prof. Idan Menashe (Email: idanmen@bgu.ac.il) 
-Director of Azrieli National Centre for Autism and Neurodevelopmental Research (https://www.autismisrael.org/)
-Dept. of Epidemiology, Biostatistics and Community Health Sciences,
-Ben Gurion University, Israel
-Website: https://www.idanme.com/
-
-and
-
-Apurba Shil (PhD Student) (Email: apurba.shil316@gmail.com)
-Dept. of Epidemiology, Biostatistics and Community Health Sciences,
-Ben Gurion University, Israel
+For any query, please contact mea at apurba.shil316@gmail.com.
 
 
