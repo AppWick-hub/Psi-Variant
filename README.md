@@ -9,9 +9,7 @@ Further, three out of six different in-silico tool based scores (SIFT, PolyPhen-
 
 At present, the tool only includes the (a) denovo, (b) autosomal recessive and (c) x-linked type of SNVs, but one can extend this approach for (d) dominant (e) compound heterozygote, etc. type of SNVs as well. A dedicated script (Inheritance.py) was developed in Python for this purpose and is available on the Scripts directory of Psi-Variant.
 
-A population allele frequency cut-off of < 1% has been used, one can flexibly extend (the allele frequency cut off) further by updating the script. 
-
-Psi-Variant also integrates with the ACMG/AMP SNV interpretation tools e.g., InterVar and TAPES. 
+A population allele frequency cut-off of < 1% has been used, one can flexibly extend (the allele frequency cut off) further by updating the script.  
 
 Interestingly, Psi-Variant detects ultra-rare LGD SNVs in any genes (or any gene-panel) having any functional consequences (e.g., LOFs/non-LoFs). 
 
