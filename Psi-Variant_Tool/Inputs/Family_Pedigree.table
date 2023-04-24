@@ -1,0 +1,6 @@
+Fam ID	SampleID	Paternal ID	Maternal ID	Sex (Male=1)	Phenotype (ASD=2)
+381	Sample1	Father	Mother	2	2
+381	Sample2	Father	Mother	2	2
+381	Sample3	Father	Mother	1	2
+381	Father	0	0	1	1
+381	Mother	0	0	2	1
