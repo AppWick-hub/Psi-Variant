@@ -13,7 +13,7 @@ A population allele frequency cut-off of < 1% has been used, one can flexibly ex
 
 Interestingly, Psi-Variant detects ultra-rare LGD SNVs in any genes (or any gene-panel) having any functional consequences (e.g., LOFs/non-LoFs). 
 
-All the scripts/input files/outputs related to the paper can be found on the "Paper_Related" directory. However, all the R, Python, bash scripts and dummy vcf data can be accessed on the "Psi-Variant" directory.
+All the scripts/input files/outputs related to the paper can be found on the "Paper_Related" directory. However, all the R, Python, bash scripts and dummy vcf data can be accessed on the "Psi-Variant_Tool" directory.
 
 A brief tutorial (to implement Psi-Variant on a dummy WES dataset) will be described very soon on this page.
 
