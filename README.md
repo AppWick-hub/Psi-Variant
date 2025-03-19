@@ -15,8 +15,6 @@ Interestingly, Psi-Variant detects ultra-rare LGD SNVs in any genes (or any gene
 
 All the scripts/input files/outputs related to the paper can be found on the "Paper_Related" directory. However, all the R, Python, bash scripts and dummy vcf data can be accessed on the "Psi-Variant_Tool" directory.
 
-A brief tutorial (to implement Psi-Variant on a dummy WES dataset) will be described very soon on this page.
-
-For any further query, please contact: apurba.shil316@gmail.com (https://twitter.com/ApurbaShil19) or idanmen@bgu.ac.il (https://www.idanme.com/).
+For any further query, please contact: apurba.shil316@gmail.com or idanmen@bgu.ac.il (https://www.idanme.com/).
 
 
